@@ -91,6 +91,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 30857420
+    },
+    {
+      "id": "6130431f49c24059946d2723e79c5c42",
+      "name": "gold ak 1",
+      "category": "ak-47 gold",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "ak47_gold.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%201/ak47_gold.dff"
+        },
+        {
+          "name": "rodina_weapons.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%201/rodina_weapons.txd"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%201/preview.png",
+      "preview_ver": 39256,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 27771742
     }
   ]
 }
