@@ -1,26 +1,6 @@
 {
   "mods": [
     {
-      "id": "26f62bfdd72f4d4cb04bce18c9a80d39",
-      "name": "deagle",
-      "category": "desert eagle",
-      "target": "modloader",
-      "version": "1.0",
-      "desc": "",
-      "files": [
-        {
-          "name": "desert_eagle.txd",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/desert_eagle.txd"
-        },
-        {
-          "name": "desert_eagle.dff",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/desert_eagle.dff"
-        }
-      ],
-      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/preview.png",
-      "size": 3962848
-    },
-    {
       "id": "3adb4b4f2cc94247b332c42ad9fb0b60",
       "name": "deagle 2",
       "category": "desert eagle",
@@ -39,6 +19,29 @@
       ],
       "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%202/preview.png",
       "size": 3713744
+    },
+    {
+      "id": "26f62bfdd72f4d4cb04bce18c9a80d39",
+      "name": "deagle",
+      "category": "desert eagle",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "desert_eagle.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/desert_eagle.txd"
+        },
+        {
+          "name": "desert_eagle.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/desert_eagle.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle/preview.png",
+      "preview_ver": 43398,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 3962848
     }
   ]
 }
