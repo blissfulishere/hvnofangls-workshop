@@ -459,6 +459,75 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 25987625
+    },
+    {
+      "id": "2f18642b196447d0927423e99101ee4c",
+      "name": "gold ak 3",
+      "category": "ak-47 gold",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "rodina_weapons.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%203/rodina_weapons.txd"
+        },
+        {
+          "name": "ak47_gold.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%203/ak47_gold.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%203/preview.png",
+      "preview_ver": 41642,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 10543128
+    },
+    {
+      "id": "0b86126f1c534ef98d7edb2e0f3c73fe",
+      "name": "gold ak 4",
+      "category": "ak-47 gold",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "rodina_weapons.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%204/rodina_weapons.txd"
+        },
+        {
+          "name": "ak47_gold.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%204/ak47_gold.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%204/preview.png",
+      "preview_ver": 22913,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 5746628
+    },
+    {
+      "id": "59e68ce7fe45482ab8257f14794307a6",
+      "name": "gold ak 5",
+      "category": "ak-47 gold",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "ak47_gold.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%205/ak47_gold.dff"
+        },
+        {
+          "name": "rodina_weapons.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%205/rodina_weapons.txd"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%205/preview.png",
+      "preview_ver": 41921,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 9918954
     }
   ]
 }
