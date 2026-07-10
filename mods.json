@@ -45,6 +45,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 13548841
+    },
+    {
+      "id": "b30de568d6b345c19638d8a4a792826d",
+      "name": "sawnoff 1",
+      "category": "sawnoff/shotgun",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "sawnoff.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sawnoff%201/sawnoff.txd"
+        },
+        {
+          "name": "sawnoff.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sawnoff%201/sawnoff.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sawnoff%201/preview.png",
+      "preview_ver": 46271,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 2315748
     }
   ]
 }
