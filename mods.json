@@ -367,6 +367,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 2294534
+    },
+    {
+      "id": "2c7b888ccc44400c820f890c5c98479f",
+      "name": "m4 4",
+      "category": "m4/ak47",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "m4.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/m4%204/m4.txd"
+        },
+        {
+          "name": "m4.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/m4%204/m4.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/m4%204/preview.png",
+      "preview_ver": 65112,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 25089802
     }
   ]
 }
