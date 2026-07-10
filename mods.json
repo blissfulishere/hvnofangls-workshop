@@ -574,6 +574,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 51107751
+    },
+    {
+      "id": "7088f72676f244739ea21fd5ed8c3a05",
+      "name": "gold ak 8",
+      "category": "ak-47 gold",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "ak47_gold.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%208/ak47_gold.dff"
+        },
+        {
+          "name": "rodina_weapons.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%208/rodina_weapons.txd"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%208/preview.png",
+      "preview_ver": 62626,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 22068400
     }
   ]
 }
