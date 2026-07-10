@@ -1,21 +1,3 @@
 {
-  "mods": [
-    {
-      "name": "kirill asd torez 1488",
-      "category": "desert eagle",
-      "target": "modloader",
-      "version": "1.0",
-      "desc": "123",
-      "files": [
-        {
-          "name": "desert_eagle.txd",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/kirill%20asd%20torez%201488/desert_eagle.txd"
-        },
-        {
-          "name": "desert_eagle.dff",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/kirill%20asd%20torez%201488/desert_eagle.dff"
-        }
-      ]
-    }
-  ]
+  "mods": []
 }
