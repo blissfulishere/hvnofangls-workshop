@@ -22,6 +22,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 13548841
+    },
+    {
+      "id": "ca17ebdf808b4f2fb051b68dde7a862e",
+      "name": "sniper 1",
+      "category": "rifle/sniper",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "sniper.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sniper%201/sniper.txd"
+        },
+        {
+          "name": "sniper.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sniper%201/sniper.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/sniper%201/preview.png",
+      "preview_ver": 26238,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 6187958
     }
   ]
 }
