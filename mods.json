@@ -551,29 +551,6 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 21525084
-    },
-    {
-      "id": "ef8b3fcba5f7421e968ed4c28358f0b4",
-      "name": "gold ak 7",
-      "category": "desert eagle",
-      "target": "modloader",
-      "version": "1.0",
-      "desc": "",
-      "files": [
-        {
-          "name": "rodina_weapons.txd",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%207/rodina_weapons.txd"
-        },
-        {
-          "name": "ak47_gold.dff",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%207/ak47_gold.dff"
-        }
-      ],
-      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%207/preview.png",
-      "preview_ver": 40541,
-      "preview_w": 256,
-      "preview_h": 256,
-      "size": 6468020
     }
   ]
 }
