@@ -160,6 +160,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 2009381
+    },
+    {
+      "id": "f169d80848b74747ac857150eecf1938",
+      "name": "deagle 4",
+      "category": "desert eagle",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "desert_eagle.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%204/desert_eagle.txd"
+        },
+        {
+          "name": "desert_eagle.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%204/desert_eagle.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%204/preview.png",
+      "preview_ver": 39374,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 17698140
     }
   ]
 }
