@@ -298,6 +298,29 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 18910788
+    },
+    {
+      "id": "7ca085272806456cae9aad23797e12d8",
+      "name": "deagle 10",
+      "category": "desert eagle",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "desert_eagle.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%2010/desert_eagle.txd"
+        },
+        {
+          "name": "desert_eagle.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%2010/desert_eagle.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/deagle%2010/preview.png",
+      "preview_ver": 37588,
+      "preview_w": 256,
+      "preview_h": 256,
+      "size": 20338304
     }
   ]
 }
