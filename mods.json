@@ -1,3 +1,24 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "id": "26f62bfdd72f4d4cb04bce18c9a80d39",
+      "name": "menti_nam_ne_kenti",
+      "category": "desert eagle",
+      "target": "modloader",
+      "version": "1.0",
+      "desc": "",
+      "files": [
+        {
+          "name": "desert_eagle.txd",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/menti_nam_ne_kenti/desert_eagle.txd"
+        },
+        {
+          "name": "desert_eagle.dff",
+          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/menti_nam_ne_kenti/desert_eagle.dff"
+        }
+      ],
+      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/menti_nam_ne_kenti/preview.png",
+      "size": 3962848
+    }
+  ]
 }
