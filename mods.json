@@ -528,29 +528,6 @@
       "preview_w": 256,
       "preview_h": 256,
       "size": 9918954
-    },
-    {
-      "id": "0a2c905d458a4a17ad1f2aef5e726954",
-      "name": "gold ak 6",
-      "category": "desert eagle",
-      "target": "modloader",
-      "version": "1.0",
-      "desc": "",
-      "files": [
-        {
-          "name": "rodina_weapons.txd",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%206/rodina_weapons.txd"
-        },
-        {
-          "name": "ak47_gold.dff",
-          "url": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%206/ak47_gold.dff"
-        }
-      ],
-      "preview": "https://raw.githubusercontent.com/blissfulishere/hvnofangls-workshop/main/mods/gold%20ak%206/preview.png",
-      "preview_ver": 52535,
-      "preview_w": 256,
-      "preview_h": 256,
-      "size": 21525084
     }
   ]
 }
